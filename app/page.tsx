@@ -16,6 +16,7 @@ const Page = () => {
         <Image src="/ayat-ul-kursi.jpg" width={400} height={400} alt="ayat" />
         <Image src="/darood.png" width={400} height={400} alt="ayat" />
       </div>
+      <script src="https://pl28436125.effectivegatecpm.com/24/e6/56/24e656d59cb158131bfcdbdced87855d.js"></script>
     </>
   );
 };
