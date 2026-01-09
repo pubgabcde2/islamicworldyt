@@ -4,8 +4,8 @@ const Page = () => {
   return (
     <>
       <script
-        async="async"
-        data-cfasync="false"
+        async
+        data-cfasync={false}
         src="https://pl28436066.effectivegatecpm.com/5cca2bf6333e364208866cc2b56d1506/invoke.js"
       ></script>
       <div id="container-5cca2bf6333e364208866cc2b56d1506"></div>
