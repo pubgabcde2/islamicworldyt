@@ -17,6 +17,7 @@ const Page = () => {
         <Image src="/darood.png" width={400} height={400} alt="ayat" />
       </div>
       <script src="https://pl28436125.effectivegatecpm.com/24/e6/56/24e656d59cb158131bfcdbdced87855d.js"></script>
+      <script src="https://pl28436150.effectivegatecpm.com/20/1b/7e/201b7e9d7d649f67030a0abdb609fcab.js"></script>
     </>
   );
 };
